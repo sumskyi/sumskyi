@@ -2,7 +2,7 @@
 - 👀 I’m interested in fishing & chess
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on FP
-- 📫 How to reach me thttps://t.me/salo_mandr
+- 📫 How to reach me https://t.me/salo_mandr
 
 <!---
 sumskyi/sumskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
